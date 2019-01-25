@@ -6,7 +6,4 @@ Utilizamos o Jupyter Notebook para realizarmos nossas analises.
 
 Os autores do trabalho são:
 
-Ariel Miranda;  
-Duan Nunes Alves da Silva;  
-Jenifer Caroline;  
-Juliana Fatima.
+Mathias, Allan e Roberto
